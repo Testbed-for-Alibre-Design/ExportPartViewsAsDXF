@@ -1,3 +1,4 @@
+https://www.alibre.com/forum/index.php?threads/script-release-export-part-views-as-dxf.24804/
 from __future__ import division # This fixes division with integers. For example the 1 / 2 = 0.5 instead of 0
 import os # for working with file paths
 import clr
