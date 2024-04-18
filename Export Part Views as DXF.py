@@ -1,3 +1,4 @@
+https://www.alibre.com/forum/index.php?threads/script-release-export-part-views-as-dxf.24804/
 from __future__ import division  # Ensures the division operation uses float division by default (e.g., 1 / 2 = 0.5)
 import os  # Imports the os module to handle file paths and file operations
 import clr  # Imports the Common Language Runtime interface
