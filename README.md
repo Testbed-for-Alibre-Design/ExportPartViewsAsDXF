@@ -1,4 +1,3 @@
-```markdown
 # Export Part Views as DXF
 
 This project contains a Python script that exports the face of a part to a DXF file using Alibre's API.
